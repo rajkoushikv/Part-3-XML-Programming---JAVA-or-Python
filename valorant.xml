@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE valorantcharacters SYSTEM "valorantDTD.dtd">
+<valorantcharacters>
+  <character>
+    <name>Jett</name>
+    <role>Duelist</role>
+    <abilities>
+      <ability>Cloudburst</ability>
+      <ability>Updraft</ability>
+      <ability>Tailwind</ability>
+      <ability>Blade Storm</ability>
+    </abilities>
+  </character>
+  <character>
+    <name>Phoenix</name>
+    <role>Duelist</role>
+    <abilities>
+      <ability>Blaze</ability>
+      <ability>Curveball</ability>
+      <ability>Hot Hands</ability>
+      <ability>Run It Back</ability>
+    </abilities>
+  </character>
+  <character>
+    <name>Sage</name>
+    <role>Sentinel</role>
+    <abilities>
+      <ability>Healing Orb</ability>
+      <ability>Barrier Orb</ability>
+      <ability>Slow Orb</ability>
+      <ability>Resurrection</ability>
+    </abilities>
+  </character>
+  <character>
+    <name>Cypher</name>
+    <role>Sentinel</role>
+    <abilities>
+      <ability>Trapwire</ability>
+      <ability>Cyber Cage</ability>
+      <ability>Spycam</ability>
+      <ability>Neural Theft</ability>
+    </abilities>
+  </character>
+  <character>
+    <name>Brimstone</name>
+    <role>Controller</role>
+    <abilities>
+      <ability>Incendiary</ability>
+      <ability>Stim Beacon</ability>
+      <ability>Sky Smoke</ability>
+      <ability>Orbital Strike</ability>
+    </abilities>
+  </character>
+  <character>
+    <name>Omen</name>
+    <role>Controller</role>
+    <abilities>
+      <ability>Paranoia</ability>
+      <ability>Dark Cover</ability>
+      <ability>Shrouded Step</ability>
+      <ability>From the Shadows</ability>
+    </abilities>
+  </character>
+  <character>
+    <name>Reyna</name>
+    <role>Duelist</role>
+    <abilities>
+      <ability>Leer</ability>
+      <ability>Devour</ability>
+      <ability>Dismiss</ability>
+      <ability>Empress</ability>
+    </abilities>
+  </character>
+  <character>
+    <name>Killjoy</name>
+    <role>Sentinel</role>
+    <abilities>
+      <ability>Alarmbot</ability>
+      <ability>Turret</ability>
+      <ability>Nanoswarm</ability>
+      <ability>Lockdown</ability>
+    </abilities>
+  </character>
+  <character>
+    <name>Viper</name>
+    <role>Controller</role>
+    <abilities>
+      <ability>Toxic Screen</ability>
+      <ability>Poison Cloud</ability>
+      <ability>Snake Bite</ability>
+      <ability>Viper's Pit</ability>
+    </abilities>
+  </character>
+  <character>
+    <name>Astra</name>
+    <role>Controller</role>
+    <abilities>
+      <ability>Nova Pulse</ability>
+      <ability>Gravity Well</ability>
+      <ability>Nebula</ability>
+      <ability>Astral Form</ability>
+    </abilities>
+  </character>
+</valorantcharacters>

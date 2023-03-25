@@ -1,0 +1,6 @@
+  <!ELEMENT valorantcharacters (character+)>
+  <!ELEMENT character (name, role, abilities)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT role (#PCDATA)>
+  <!ELEMENT abilities (ability+)>
+  <!ELEMENT ability (#PCDATA)>
